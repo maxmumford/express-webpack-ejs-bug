@@ -22,7 +22,7 @@ After cloning this repository, run the following commands:
  - npm start
  - open localhost:8000
 
-# Workaround
+## Workaround
 
 Thanks to Cleiton for finding a workaround for this problem on SO:
 
